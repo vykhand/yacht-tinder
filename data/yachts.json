@@ -1,0 +1,1818 @@
+[
+  {
+    "id": "marquise",
+    "name": "Marquise",
+    "url": "https://goolets.net/yacht-rentals/marquise/",
+    "destination": "GREECE",
+    "priceFromEur": 550000,
+    "priceToEur": null,
+    "lengthM": 72,
+    "beamM": null,
+    "draftM": 2.4,
+    "cruiseSpeedKn": null,
+    "builtYear": 2004,
+    "renovatedYear": 2025,
+    "cabins": 14,
+    "maxGuests": 28,
+    "crewCount": 30,
+    "crewRaw": "30 crew members",
+    "waterSports": [
+      "3x Jet ski",
+      "2x SeaBob",
+      "Water skiing",
+      "3x Wakeboard",
+      "Kneeboard",
+      "3x Paddleboard",
+      "2x Kayak"
+    ],
+    "description": "A magnificent 72-meter superyacht that offers an unparalleled luxury experience. With 14 large and luxurious cabins accommodating up to 28 guests, as well as a range of impressive amenities including an indoor cinema, pool, gym, and fully stocked garage with toys, this yacht promises an unforgettable adventure on the high seas.",
+    "seasonalRates": [],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/09/Studio-Reskos_06115-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/Studio-Reskos_06104-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/Studio-Reskos_06163-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/Studio-Reskos_06185-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/Studio-Reskos_06187-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/Studio-Reskos_06200-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/Studio-Reskos_06280-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/Studio-Reskos_06245-scaled.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:38:42.845Z"
+  },
+  {
+    "id": "chakra",
+    "name": "Chakra",
+    "url": "https://goolets.net/yacht-rentals/chakra/",
+    "destination": "GREECE",
+    "priceFromEur": 495000,
+    "priceToEur": null,
+    "lengthM": 86,
+    "beamM": null,
+    "draftM": 5.24,
+    "cruiseSpeedKn": null,
+    "builtYear": 1998,
+    "renovatedYear": 2017,
+    "cabins": 19,
+    "maxGuests": 24,
+    "crewCount": 30,
+    "crewRaw": "30 crew members",
+    "waterSports": [
+      "Jet pack",
+      "Jet ski (standup & sit down)",
+      "Mono skiing",
+      "Surf board",
+      "Tube ride",
+      "Wakeboard"
+    ],
+    "description": "Embark on a luxurious journey aboard the 86-metre superyacht Chakra, a true masterpiece of the seas. This superyacht boasts a striking exterior, innovative interior, and the capacity to host extraordinary private parties and events, making it the ultimate way to explore the world's waters in style.",
+    "seasonalRates": [],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/08/561314542-chakra_profile1.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/561314550-chakra_bird_view.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/561314458-chakra_exterior1.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/561314483-chakra_interior_gym.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/561314478-chakra_interior_dining_area.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/561314511-chakra_interior_master_cabin2.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/561314497-chakra_interior_lounge_area2.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:38:46.444Z"
+  },
+  {
+    "id": "apogee",
+    "name": "Apogee",
+    "url": "https://goolets.net/yacht-rentals/apogee/",
+    "destination": "CROATIA",
+    "priceFromEur": 360000,
+    "priceToEur": 390000,
+    "lengthM": 62,
+    "beamM": null,
+    "draftM": 3.8,
+    "cruiseSpeedKn": null,
+    "builtYear": 2003,
+    "renovatedYear": 2023,
+    "cabins": 6,
+    "maxGuests": 12,
+    "crewCount": 17,
+    "crewRaw": "17 members",
+    "waterSports": [
+      "4 Jet skis",
+      "Water skiing",
+      "Kneeboard",
+      "Tube ride",
+      "Wakeboard",
+      "2 Paddleboards",
+      "2 Kayaks",
+      "Inflatable trampoline"
+    ],
+    "description": "Apogee is an impressive 62.5-metre superyacht built in 2003 and refitted in 2023, offering luxurious accommodation for up to 12 guests across six cabins and serviced by a highly attentive crew of 17.",
+    "seasonalRates": [
+      {
+        "label": "Season A",
+        "dateRange": "FROM 01 MAY 2026 TILL 30 JUNE 2026",
+        "priceEur": 360000
+      },
+      {
+        "label": "Season B",
+        "dateRange": "FROM 01 JULY 2026 TILL 31 AUGUST 2026",
+        "priceEur": 390000
+      },
+      {
+        "label": "Season C",
+        "dateRange": "FROM 01 SEPTEMBER 2026 TILL 31 OCTOBER 2026",
+        "priceEur": 360000
+      }
+    ],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/09/707676978-juh_4701-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/707676870-dji_0182-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/707676891-dji_0274-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/707676765-juh_4718.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/707676784-juh_4771.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/707676794-juh_4797.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/707675972-juh_4911-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/707676003-juh_4928-scaled.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:38:48.546Z"
+  },
+  {
+    "id": "galaxy",
+    "name": "Galaxy",
+    "url": "https://goolets.net/yacht-rentals/galaxy/",
+    "destination": "FRANCE",
+    "priceFromEur": 320000,
+    "priceToEur": 330000,
+    "lengthM": 56,
+    "beamM": null,
+    "draftM": 3.3,
+    "cruiseSpeedKn": null,
+    "builtYear": 2005,
+    "renovatedYear": 2022,
+    "cabins": 6,
+    "maxGuests": 12,
+    "crewCount": 15,
+    "crewRaw": "15 members",
+    "waterSports": [
+      "2 Jet skis",
+      "4 SeaBobs",
+      "Jet surf",
+      "Fly board",
+      "Water skiing",
+      "Wake surf",
+      "3 Wakeboards",
+      "2 Paddleboards",
+      "2 Kayaks"
+    ],
+    "description": "A 56m masterpiece by Benetti, stands as an emblem of maritime luxury and sophistication. Originally gracing the waters in 2005, this beacon of opulence underwent a comprehensive refit in 2022 by the renowned Njord by Bergman, enhancing its elegance and splendor. With an aesthetic inspired by the enigma of space and the bohemian spirit of Burning Man, stepping aboard the M/Y GALAXY is akin to entering a universe of unparalleled grandeur.",
+    "seasonalRates": [],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/08/551313351-galaxy_yacht_shoot_exterior_2_jack_hardy_2022-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/551313342-galaxy_yacht_shoot_exterior_1_jack_hardy_2022-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/551313213-galaxy_yacht_shoot_sun_deck_area_1_1_jack_hardy_2022-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/551313333-galaxy_yacht_shoot_dinning_room_1_jack_hardy_2022-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/551313190-galaxy_yacht_shoot_master_bedroom_1_jack_hardy_2022-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/551313174-galaxy_yacht_shoot_maindecksaloon_1_jack_hardy_2022_1-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/551313186-galaxy_yacht_shoot_maindecksaloon_6_jack_hardy_2022-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/551313204-galaxy_yacht_shoot_staircase_lobby_jack_hardy_2022-scaled.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:38:51.059Z"
+  },
+  {
+    "id": "nita-k-2",
+    "name": "Nita K II",
+    "url": "https://goolets.net/yacht-rentals/nita-k-2/",
+    "destination": "THE CARIBBEAN",
+    "priceFromEur": 250000,
+    "priceToEur": 275000,
+    "lengthM": 52,
+    "beamM": null,
+    "draftM": 3.05,
+    "cruiseSpeedKn": null,
+    "builtYear": 2004,
+    "renovatedYear": 2019,
+    "cabins": 5,
+    "maxGuests": 12,
+    "crewCount": 13,
+    "crewRaw": "13 members",
+    "waterSports": [
+      "2x Jet ski",
+      "2x SeaBob",
+      "2x E-foil",
+      "Water skiing",
+      "2x Wakeboard",
+      "2x Paddleboard",
+      "2x Kayak",
+      "Waterslide"
+    ],
+    "description": "Nita K II is a striking 52-metre superyacht that redefines luxury chartering in Italy, welcoming up to 12 guests into five lavish suites with the care of a 13-member professional crew. With a dazzling array of water toys, from jet skis and SeaBobs to an e-foil, waterslide, and more, she delivers the perfect blend of adventure, relaxation, and five-star service on the open sea.",
+    "seasonalRates": [],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/08/707680560-171-_amels_nita_k_ii_web-1.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/707680584-171-_amels_nita_k_ii_web-2.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/707680623-171-_amels_nita_k_ii_web-37-2.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/707680528-171-_amels_nita_k_ii_web-53-2.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/707680509-171-_amels_nita_k_ii_web-113.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/707680500-171-_amels_nita_k_ii_web-109.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/707680489-171-_amels_nita_k_ii_web-102.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/707680463-171-_amels_nita_k_ii_print-142.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:38:54.657Z"
+  },
+  {
+    "id": "king-benji",
+    "name": "King Benji",
+    "url": "https://goolets.net/yacht-rentals/king-benji/",
+    "destination": "CROATIA",
+    "priceFromEur": 250000,
+    "priceToEur": null,
+    "lengthM": 47,
+    "beamM": null,
+    "draftM": 2.95,
+    "cruiseSpeedKn": null,
+    "builtYear": 2024,
+    "renovatedYear": null,
+    "cabins": 5,
+    "maxGuests": 10,
+    "crewCount": 12,
+    "crewRaw": "12 crew members",
+    "waterSports": [
+      "4x Jet ski",
+      "Flyboard",
+      "SeaBob",
+      "Foilboard",
+      "Ringo ride",
+      "Wakeboard",
+      "Wakesurf",
+      "Wakeboard",
+      "Ringo ride",
+      "Water slide",
+      "Inflatable climbing wall",
+      "Inflatable trampoline",
+      "Floating golf",
+      "Paddleboard"
+    ],
+    "description": "King Benji is a 47-meter luxury motor yacht, delivered in 2024, offering accommodation for up to 10 guests across five en-suite cabins, including a master, VIP, two double, and one twin suite, all managed by a crew of twelve. Built with a steel hull and aluminium superstructure, she cruises comfortably at 12 knots, and comes equipped with an outstanding water sports package, comprising four jet skis, flyboard, SeaBob, foilboard, ringo ride, wakesurf, wakeboard, and a water slide.",
+    "seasonalRates": [],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/09/king_benji_cruising.jpg-1.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/king_benji_at_night.jpg.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/king_benji_watersports_2.jpg.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/king_benji_anchored_3.jpg.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/king_benji_aerial_view_2.jpg.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/king_benji_bow_deck.jpg.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/king_benji_sunset.jpg.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/king_benji_sunset_2.jpg.webp"
+    ],
+    "scrapedAt": "2026-06-04T18:38:58.413Z"
+  },
+  {
+    "id": "aslec-4",
+    "name": "Aslec 4",
+    "url": "https://goolets.net/yacht-rentals/aslec-4/",
+    "destination": "ITALY",
+    "priceFromEur": 216000,
+    "priceToEur": 318000,
+    "lengthM": 48,
+    "beamM": null,
+    "draftM": 2.6,
+    "cruiseSpeedKn": null,
+    "builtYear": 2012,
+    "renovatedYear": 2022,
+    "cabins": 5,
+    "maxGuests": 10,
+    "crewCount": 9,
+    "crewRaw": "9 crew members",
+    "waterSports": [
+      "Jet ski",
+      "2x SeaBob",
+      "Foil",
+      "Water skiing",
+      "Towable sofa",
+      "Jetsurf",
+      "2x Wakeboard",
+      "3x Paddleboard",
+      "4x Kayak",
+      "Inflatable kayak (2-person)"
+    ],
+    "description": "ASLEC 4 is a 48-meter Italian-built motor yacht by Rossinavi, combining elegant design with impressive volume and efficiency. Refitted in 2021, she offers a bright, contemporary interior by Rémi Tessier and a spacious layout that immediately stands out, highlighted by her expansive 70 sqm aft deck and generous sun deck with jacuzzi and gym.",
+    "seasonalRates": [
+      {
+        "label": "Season A",
+        "dateRange": "FROM 18 APRIL 2026 TILL 21 JUNE 2026",
+        "priceEur": 216000
+      },
+      {
+        "label": "Season B",
+        "dateRange": "FROM 22 JUNE 2026 TILL 31 JULY 2026",
+        "priceEur": 258000
+      },
+      {
+        "label": "Season C",
+        "dateRange": "FROM 01 AUGUST 2026 TILL 31 AUGUST 2026",
+        "priceEur": 318000
+      },
+      {
+        "label": "Season D",
+        "dateRange": "FROM 01 SEPTEMBER 2026 TILL 07 SEPTEMBER 2026",
+        "priceEur": 258000
+      },
+      {
+        "label": "Season E",
+        "dateRange": "FROM 08 SEPTEMBER 2026 TILL 31 OCTOBER 2026",
+        "priceEur": 216000
+      }
+    ],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2026/03/DJI_0057-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2026/03/DJI_0021-Modifica-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2026/03/DJI_0013-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2026/03/1M8A3145-HDR-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2026/03/1M8A3154-HDR-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2026/03/1M8A3095-HDR-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2026/03/1M8A3098-HDR-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2026/03/1M8A3251-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2026/03/1M8A2984-HDR-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2026/03/1M8A2978-HDR-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2026/03/1M8A2999-HDR-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2026/03/1M8A3225-scaled.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:39:00.521Z"
+  },
+  {
+    "id": "emerald",
+    "name": "Emerald",
+    "url": "https://goolets.net/yacht-rentals/emerald/",
+    "destination": "ITALY",
+    "priceFromEur": 210000,
+    "priceToEur": 240000,
+    "lengthM": 50,
+    "beamM": null,
+    "draftM": 2.7,
+    "cruiseSpeedKn": null,
+    "builtYear": 1990,
+    "renovatedYear": 2023,
+    "cabins": 6,
+    "maxGuests": 12,
+    "crewCount": 8,
+    "crewRaw": "8 crew members",
+    "waterSports": [
+      "Jet ski",
+      "SeaBob",
+      "Water skiing",
+      "Wakeboard",
+      "Paddleboard",
+      "Kayak",
+      "Waterslide"
+    ],
+    "description": "Emerald is a 50-meter yacht offering six elegant guest cabins and staffed by a dedicated crew of eight. She pairs generous living spaces with refined comfort—perfect for intimate group cruising. Designed for both relaxation and exploration, Emerald promises refined elegance on the water.",
+    "seasonalRates": [
+      {
+        "label": "Season D",
+        "dateRange": "FROM 01 MAY 2026 TILL 30 JUNE 2026",
+        "priceEur": 210000
+      },
+      {
+        "label": "Season E",
+        "dateRange": "FROM 01 JULY 2026 TILL 31 AUGUST 2026",
+        "priceEur": 240000
+      },
+      {
+        "label": "Season F",
+        "dateRange": "FROM 01 SEPTEMBER 2026 TILL 31 OCTOBER 2026",
+        "priceEur": 210000
+      }
+    ],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/08/707681917-1-emerald_124.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/707681947-6-emerald_13.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/707681980-15.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/707681876-31.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/707681853-27-emerald_134.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/707681648-41-sky.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/707681506-juh04674.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/707681557-juh04773.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:39:02.355Z"
+  },
+  {
+    "id": "happy-me",
+    "name": "Happy Me",
+    "url": "https://goolets.net/yacht-rentals/happy-me/",
+    "destination": "CROATIA",
+    "priceFromEur": 190000,
+    "priceToEur": 220000,
+    "lengthM": 40.24,
+    "beamM": null,
+    "draftM": 2.23,
+    "cruiseSpeedKn": null,
+    "builtYear": 2020,
+    "renovatedYear": null,
+    "cabins": 5,
+    "maxGuests": 11,
+    "crewCount": 7,
+    "crewRaw": "7 members",
+    "waterSports": [
+      "Jet ski",
+      "SeaBob",
+      "Water skiing",
+      "Ringo ride",
+      "Tube ride",
+      "Kneeboard",
+      "Wakeboard",
+      "Paddleboard"
+    ],
+    "description": "Happy Me is a 40.24-metre yacht built in 2020, with 5 cabins to host up to 11 guests and a crew of 7. Her speed is 11 knots cruising (up to 15 knots max), and she offers a full range of water sports including Jet ski, SeaBob, water skiing, wakeboard, ringo & tube rides and paddleboarding.",
+    "seasonalRates": [
+      {
+        "label": "Season A",
+        "dateRange": "FROM 01 MAY 2026 TILL 30 JUNE 2026",
+        "priceEur": 190000
+      },
+      {
+        "label": "Season B",
+        "dateRange": "FROM 01 JULY 2026 TILL 31 AUGUST 2026",
+        "priceEur": 220000
+      },
+      {
+        "label": "Season C",
+        "dateRange": "FROM 01 SEPTEMBER 2026 TILL 31 OCTOBER 2026",
+        "priceEur": 190000
+      }
+    ],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/09/696147591-03-happy-mee-air_257_1-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/696147542-01-happy-me-air_71-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/696147521-16-happy-mee_390-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/696147420-09-happy-mee-air_237-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/696146298-03-happy-mee_10-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/696146361-05-happy-mee_28-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/696146389-01-happy-mee_7-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/696146481-02-happy-mee_1060-scaled.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:39:06.021Z"
+  },
+  {
+    "id": "lamima",
+    "name": "Lamima",
+    "url": "https://goolets.net/yacht-rentals/lamima/",
+    "destination": "INDONESIA",
+    "priceFromEur": 182000,
+    "priceToEur": null,
+    "lengthM": 65,
+    "beamM": null,
+    "draftM": 3.7,
+    "cruiseSpeedKn": null,
+    "builtYear": 2014,
+    "renovatedYear": null,
+    "cabins": 7,
+    "maxGuests": 14,
+    "crewCount": 20,
+    "crewRaw": "20 crew members",
+    "waterSports": [
+      "Jet ski",
+      "2 Jetboard",
+      "Water skiing",
+      "Wakeboard",
+      "6 Paddleboards",
+      "2 Kayaks",
+      "2 Jukungs"
+    ],
+    "description": "Step aboard Lamima, a majestic 65-meter Phinisi that blends traditional Indonesian craftsmanship with modern superyacht luxury. Indulge in seven elegantly appointed ensuite cabins hosting up to 14 guests, while a 20‑member crew ensures seamless hospitality and unforgettable moments.",
+    "seasonalRates": [],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/09/345508217-sailing-14-1-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/345508043-sailing-3-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/345508371-sailing-22.jpeg.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/345508567-sundeck-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/345506831-446a0849-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/345506700-_dsf9391-1-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/345508434-spa-3-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/345507531-cab-master-photo-1-scaled.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:39:08.655Z"
+  },
+  {
+    "id": "la-pellegrina-1",
+    "name": "La Pellegrina 1",
+    "url": "https://goolets.net/yacht-rentals/la-pellegrina-1/",
+    "destination": "GREECE",
+    "priceFromEur": 180000,
+    "priceToEur": 235000,
+    "lengthM": 50,
+    "beamM": null,
+    "draftM": 2.5,
+    "cruiseSpeedKn": null,
+    "builtYear": 2012,
+    "renovatedYear": 2024,
+    "cabins": 6,
+    "maxGuests": 12,
+    "crewCount": null,
+    "crewRaw": "Captain, Chief Officer, Second Officer, Chef, Chief Engineer, Second Engineer, Chief Stewardess, Second Stewardess, Third Stewardess, Stewardess, Deckhand",
+    "waterSports": [
+      "2x Jet ski (SeaDoo Spark)",
+      "2x SeaBob (F5S)",
+      "2x Seascooter (Jobe Infinity)",
+      "Water skiing (adult & children)",
+      "2x Tube ride (2 & 3 person)",
+      "2x Kneeboard",
+      "2x Wakeboard",
+      "Inflatble platform"
+    ],
+    "description": "La Pellegrina 1 is a luxury motor yacht, blending superb onboard amenities with a state-of-the-art toy box for truly memorable charters across the globe.",
+    "seasonalRates": [
+      {
+        "label": "Season A",
+        "dateRange": "FROM 01 APRIL 2026 TILL 31 MAY 2026",
+        "priceEur": 180000
+      },
+      {
+        "label": "Season B",
+        "dateRange": "FROM 01 JUNE 2026 TILL 30 JUNE 2026",
+        "priceEur": 210000
+      },
+      {
+        "label": "Season C",
+        "dateRange": "FROM 01 JULY 2026 TILL 31 AUGUST 2026",
+        "priceEur": 235000
+      },
+      {
+        "label": "Season D",
+        "dateRange": "FROM 01 SEPTEMBER 2026 TILL 30 SEPTEMBER 2026",
+        "priceEur": 210000
+      },
+      {
+        "label": "Season E",
+        "dateRange": "FROM 01 OCTOBER 2026 TILL 31 OCTOBER 2026",
+        "priceEur": 180000
+      }
+    ],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/08/719780999-studioreskos34717-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/719781159-studioreskos34727-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/719779531-studioreskos34603-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/719777357-studioreskos34444-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/719777399-studioreskos34448-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/719777638-studioreskos34460-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/719777665-studioreskos34462-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/719778031-studioreskos34493-scaled.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:39:10.780Z"
+  },
+  {
+    "id": "bello",
+    "name": "Bello",
+    "url": "https://goolets.net/yacht-rentals/bello/",
+    "destination": "CROATIA",
+    "priceFromEur": 180000,
+    "priceToEur": null,
+    "lengthM": 54,
+    "beamM": null,
+    "draftM": 3.4,
+    "cruiseSpeedKn": null,
+    "builtYear": 2026,
+    "renovatedYear": null,
+    "cabins": 6,
+    "maxGuests": 12,
+    "crewCount": 12,
+    "crewRaw": "12 Crew Members",
+    "waterSports": [
+      "2 Jet Skis",
+      "2 SeaBobs",
+      "2 E-Foils",
+      "Paddleboard",
+      "Waterslide"
+    ],
+    "description": "Designed for an unparalleled sailing experience in captivating waters worldwide, Bello offers supreme comfort, world-class service, and endless opportunities for adventure and relaxation. Be among the first to experience her limited-time introductory pricing.",
+    "seasonalRates": [],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/09/698441286-ext-c010000-scaled-e1761742691272.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/698560055-ext-c090035-v4-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/698441297-ext-c020000-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/698441409-glpaluba-c030000-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/698441994-spa-c03-1.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/698441894-c080001-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/698442350-kabina01-c08.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/698442374-photo-8-1-25-15-30-55.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:39:12.811Z"
+  },
+  {
+    "id": "renata",
+    "name": "Renata",
+    "url": "https://goolets.net/yacht-rentals/renata/",
+    "destination": "CROATIA",
+    "priceFromEur": 179000,
+    "priceToEur": 199000,
+    "lengthM": 40,
+    "beamM": null,
+    "draftM": 2.6,
+    "cruiseSpeedKn": null,
+    "builtYear": 2025,
+    "renovatedYear": null,
+    "cabins": 6,
+    "maxGuests": 12,
+    "crewCount": 10,
+    "crewRaw": "10 crew members",
+    "waterSports": [
+      "2x Jet ski (SeaDoo GTRX RS)",
+      "2x SeaBob (F5S)",
+      "Water skiing (adult & child)",
+      "Wakeboard",
+      "Ringo ride",
+      "Kayak",
+      "2x Paddleboard"
+    ],
+    "description": "RENATA is a brand-new 40.80 m explorer yacht delivered in 2025, built in steel with a displacement hull for exceptional stability and long-range cruising. Designed by Studio Sculli with hull engineering by Floating Life, she represents a modern tri-deck explorer concept focused on comfort, safety and global capability.",
+    "seasonalRates": [
+      {
+        "label": "Season A",
+        "dateRange": "FROM 01 MAY 2026 TILL 30 JUNE 2026",
+        "priceEur": 179000
+      },
+      {
+        "label": "Season B",
+        "dateRange": "FROM 01 JULY 2026 TILL 31 AUGUST 2026",
+        "priceEur": 199000
+      },
+      {
+        "label": "Season C",
+        "dateRange": "FROM 01 SEPTEMBER 2026 TILL 31 OCTOBER 2026",
+        "priceEur": 179000
+      }
+    ],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2026/02/00-Renata-main_.avif",
+      "https://goolets.net/wp-content/uploads/2026/02/07-Renata-bow-view_.avif",
+      "https://goolets.net/wp-content/uploads/2026/02/05-Renata-portside_.avif",
+      "https://goolets.net/wp-content/uploads/2026/02/04-Renata-aerial_.avif",
+      "https://goolets.net/wp-content/uploads/2026/02/09-Renata-sundeck-jacuzzi_.avif",
+      "https://goolets.net/wp-content/uploads/2026/02/08-Renata-sundeck_.avif",
+      "https://goolets.net/wp-content/uploads/2026/02/10-Renata-Master-deck-aft_.avif",
+      "https://goolets.net/wp-content/uploads/2026/02/11-Renata-Master-deck-aft-view_.avif",
+      "https://goolets.net/wp-content/uploads/2026/02/40-Renata-beach-club_.avif",
+      "https://goolets.net/wp-content/uploads/2026/02/42-Renata-sauna_.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:39:15.871Z"
+  },
+  {
+    "id": "all-about-u-2",
+    "name": "All About u 2",
+    "url": "https://goolets.net/yacht-rentals/all-about-u-2/",
+    "destination": "TURKEY",
+    "priceFromEur": 175000,
+    "priceToEur": 220500,
+    "lengthM": 50,
+    "beamM": null,
+    "draftM": 3.6,
+    "cruiseSpeedKn": null,
+    "builtYear": 2019,
+    "renovatedYear": null,
+    "cabins": 6,
+    "maxGuests": 12,
+    "crewCount": 9,
+    "crewRaw": "9 Crew Members",
+    "waterSports": [
+      "2 Jet Skis",
+      "4 SeaBobs",
+      "Water Skiing",
+      "Wakeboard",
+      "Ringo Ride",
+      "2 Paddleboards",
+      "Inflatable Slide",
+      "Canoe"
+    ],
+    "description": "All About U 2 is a 50-meter motor-sailing yacht that combines modern design, spacious decks, and high comfort. She offers six elegant cabins for up to 12 guests, with a refined interior and generous outdoor areas for relaxing and entertaining. With a dedicated crew of nine, a great selection of water toys, and premium amenities, All About U 2 is an excellent choice for memorable Mediterranean charters.",
+    "seasonalRates": [
+      {
+        "label": "Season A",
+        "dateRange": "FROM 01 MAY 2026 TILL 31 MAY 2026",
+        "priceEur": 175000
+      },
+      {
+        "label": "Season B",
+        "dateRange": "FROM 01 JUNE 2026 TILL 30 JUNE 2026",
+        "priceEur": 210000
+      },
+      {
+        "label": "Season C",
+        "dateRange": "FROM 01 JULY 2026 TILL 31 AUGUST 2026",
+        "priceEur": 220500
+      },
+      {
+        "label": "Season D",
+        "dateRange": "FROM 01 SEPTEMBER 2026 TILL 30 SEPTEMBER 2026",
+        "priceEur": 210000
+      },
+      {
+        "label": "Season E",
+        "dateRange": "FROM 01 OCTOBER 2026 TILL 31 OCTOBER 2026",
+        "priceEur": 175000
+      }
+    ],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/08/PSU6101-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/DJI_0218.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/PSU5594-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/ALL-ABOUT-U-2-Aerial-view.jpg.webp",
+      "https://goolets.net/wp-content/uploads/2025/08/DJI_0400.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/DJI_0197.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/PSU5325.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/PSU4975-scaled.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:39:17.882Z"
+  },
+  {
+    "id": "serenity-greece",
+    "name": "Serenity",
+    "url": "https://goolets.net/yacht-rentals/serenity-greece/",
+    "destination": "GREECE",
+    "priceFromEur": 175000,
+    "priceToEur": null,
+    "lengthM": 41,
+    "beamM": null,
+    "draftM": 2.5,
+    "cruiseSpeedKn": null,
+    "builtYear": 2013,
+    "renovatedYear": 2019,
+    "cabins": 5,
+    "maxGuests": 10,
+    "crewCount": 8,
+    "crewRaw": "8 crew members",
+    "waterSports": [
+      "3x Jet ski",
+      "2x E-foil",
+      "2x Water scooter",
+      "Water skiing",
+      "Tube ride",
+      "Wakeboard",
+      "2x Paddleboard",
+      "2x Kayak"
+    ],
+    "description": "Serenity is a sleek 42 m superyacht designed for unforgettable escapes in Greece offering 5 luxurious cabins for 10 guests, 8 crew, and a refined modern interior. She’s a floating playground built for both thrill and indulgence on the Aegean Sea.",
+    "seasonalRates": [
+      {
+        "label": "Season A",
+        "dateRange": "FROM 01 MAY 2026 TILL 31 OCTOBER 2026",
+        "priceEur": 175000
+      }
+    ],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/09/707679371-dji_0683-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/707679357-dji_0677-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/707679470-dji_0819-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/707679407-dji_0767-1-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/707678771-juh03875-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/707678820-juh03890-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/707679234-juh03827-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/707678405-juh03694-scaled.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:39:20.189Z"
+  },
+  {
+    "id": "sonishi",
+    "name": "Sonishi",
+    "url": "https://goolets.net/yacht-rentals/sonishi/",
+    "destination": "FRANCE",
+    "priceFromEur": 175000,
+    "priceToEur": 190,
+    "lengthM": 40,
+    "beamM": null,
+    "draftM": 2,
+    "cruiseSpeedKn": null,
+    "builtYear": 2019,
+    "renovatedYear": null,
+    "cabins": 5,
+    "maxGuests": 10,
+    "crewCount": 8,
+    "crewRaw": "8 crew members",
+    "waterSports": [
+      "Jet skis (SeaDoo RXP - X300)",
+      "2x SeaBob (F5S)",
+      "Waters skiing",
+      "Electric hover",
+      "Wakeboard",
+      "3x Tube ride",
+      "2x Paddleboard",
+      "2x Inflatable kayak (3 person)"
+    ],
+    "description": "Step aboard Sonishi and let yourself be whisked away into a world where style meets serenity on the French and Mediterranean seas. With inviting interior lounges, sun-drenched decks, and a thoughtfully curated selection of water toys, she’s crafted to turn every itinerary into an elegant, effortless escape you’ll remember long after you step ashore.",
+    "seasonalRates": [
+      {
+        "label": "Season A",
+        "dateRange": "FROM 01 MAY 2026 TILL 30 JUNE 2026",
+        "priceEur": 175000
+      },
+      {
+        "label": "Season B",
+        "dateRange": "FROM 01 JULY 2026 TILL 31 AUGUST 2026",
+        "priceEur": 190000
+      },
+      {
+        "label": "Season C",
+        "dateRange": "FROM 01 SEPTEMBER 2026 TILL 31 OCTOBER 2026",
+        "priceEur": 175000
+      }
+    ],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/09/IMG_8385.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/IMG_8419.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/IMG_1404.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/IMG_1236.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/IMG_1253.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/IMG_1336.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/IMG_1265.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/IMG_1262.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:39:23.001Z"
+  },
+  {
+    "id": "alalya",
+    "name": "Alalya",
+    "url": "https://goolets.net/yacht-rentals/alalya/",
+    "destination": "CROATIA",
+    "priceFromEur": 160000,
+    "priceToEur": 185000,
+    "lengthM": 47,
+    "beamM": null,
+    "draftM": 2.5,
+    "cruiseSpeedKn": null,
+    "builtYear": 2005,
+    "renovatedYear": 2020,
+    "cabins": 6,
+    "maxGuests": 12,
+    "crewCount": 9,
+    "crewRaw": "9 members",
+    "waterSports": [
+      "2 Jet Ski",
+      "2 SeaBob",
+      "2 Sea scooter",
+      "Water skiing",
+      "Wakeboard",
+      "2 Paddleboards"
+    ],
+    "description": "Alalya is a magnificent 47.5-metre ISA motor yacht, offering luxurious accommodation for up to 12 guests across six elegantly appointed cabins and serviced by a dedicated crew of nine.",
+    "seasonalRates": [
+      {
+        "label": "Season A",
+        "dateRange": "FROM 02 MAY 2026 TILL 28 JUNE 2026",
+        "priceEur": 160000
+      },
+      {
+        "label": "Season B",
+        "dateRange": "FROM 01 JULY 2026 TILL 03 AUGUST 2026",
+        "priceEur": 185000
+      },
+      {
+        "label": "Season C",
+        "dateRange": "FROM 01 SEPTEMBER 2026 TILL 01 NOVEMBER 2026",
+        "priceEur": 160000
+      }
+    ],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/09/329804326-alalya_aerial_exterior3.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/329804319-alalya_aerial_exterior_cruising1.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/329804316-alalya_aerial_exterior_aftdeck1.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/329804247-alalya_flybridge5-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/329804311-alalya_upperdeck_salon1-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/329804304-alalya_mastercabin1-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/329804286-alalya_maindeck_salon1-scaled.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:39:25.314Z"
+  },
+  {
+    "id": "tatiana-i",
+    "name": "Tatiana I",
+    "url": "https://goolets.net/yacht-rentals/tatiana-i/",
+    "destination": "FRANCE",
+    "priceFromEur": 160000,
+    "priceToEur": 170000,
+    "lengthM": 45,
+    "beamM": null,
+    "draftM": 2.1,
+    "cruiseSpeedKn": null,
+    "builtYear": 2011,
+    "renovatedYear": 2022,
+    "cabins": 6,
+    "maxGuests": 12,
+    "crewCount": 9,
+    "crewRaw": "9 crew members",
+    "waterSports": [
+      "Jet ski",
+      "Water skiing",
+      "Tube ride",
+      "Wakeboard"
+    ],
+    "description": "Step aboard Tatiana I and immerse yourself in timeless elegance on the French Riviera. With its refined salons, sun-lit decks, soothing jacuzzi, and a handpicked collection of water toys, Tatiana I offers an unforgettable blend of luxury, comfort, and exploration.",
+    "seasonalRates": [
+      {
+        "label": "Season A",
+        "dateRange": "FROM 01 MAY 2026 TILL 30 JUNE 2026",
+        "priceEur": 160000
+      },
+      {
+        "label": "Season B",
+        "dateRange": "FROM 01 JULY 2026 TILL 31 AUGUST 2026",
+        "priceEur": 170000
+      },
+      {
+        "label": "Season C",
+        "dateRange": "FROM 01 SEPTEMBER 2026 TILL 31 OCTOBER 2026",
+        "priceEur": 160000
+      }
+    ],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/09/3371.0.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/3371.25.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/3371.1.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/3371.23.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/3371.3.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/3371.6.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/3371.9.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/3371.10.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:39:27.196Z"
+  },
+  {
+    "id": "eh2",
+    "name": "EH2",
+    "url": "https://goolets.net/yacht-rentals/eh2/",
+    "destination": "ITALY",
+    "priceFromEur": 155000,
+    "priceToEur": 165000,
+    "lengthM": 37,
+    "beamM": null,
+    "draftM": 1.9,
+    "cruiseSpeedKn": null,
+    "builtYear": 2022,
+    "renovatedYear": 2024,
+    "cabins": 5,
+    "maxGuests": 10,
+    "crewCount": 7,
+    "crewRaw": "7 members",
+    "waterSports": [
+      "Jet ski",
+      "SeaBob",
+      "E-Foil",
+      "Paddleboard"
+    ],
+    "description": "EH2 is a luxurious 37-metre yacht built in 2022, accommodating up to 10 guests across 5 cabins with a professional crew of 7. It offers a top cruising speed of 12.5 knots and features amenities such as Jet ski, SeaBob, E-Foil, paddleboard, and full boarding service.",
+    "seasonalRates": [
+      {
+        "label": "Season A",
+        "dateRange": "FROM 01 MAY 2026 TILL 30 JUNE 2026",
+        "priceEur": 155000
+      },
+      {
+        "label": "Season B",
+        "dateRange": "FROM 01 JULY 2026 TILL 31 AUGUST 2026",
+        "priceEur": 165000
+      },
+      {
+        "label": "Season C",
+        "dateRange": "FROM 01 SEPTEMBER 2026 TILL 31 OCTOBER 2026",
+        "priceEur": 155000
+      }
+    ],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/09/EH2-Anchored-2.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/EH2-Cruising.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/EH2-Anchored.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/EH2-Swim-platform.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/EH2-Swim-platform-2.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/EH2-Sun-deck.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/EH2-Sun-deck-2.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/EH2-Jacuzzi.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/EH2-Lounge-area.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/EH2-Sun-deck-3.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/EH2-Dinning-area-2.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/EH2-Dinning-area.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:39:28.964Z"
+  },
+  {
+    "id": "rascal-australia",
+    "name": "Rascal",
+    "url": "https://goolets.net/yacht-rentals/rascal-australia/",
+    "destination": "AUSTRALIA",
+    "priceFromEur": 150000,
+    "priceToEur": null,
+    "lengthM": 35,
+    "beamM": null,
+    "draftM": 2.4,
+    "cruiseSpeedKn": null,
+    "builtYear": 2015,
+    "renovatedYear": 2022,
+    "cabins": 5,
+    "maxGuests": 10,
+    "crewCount": 5,
+    "crewRaw": "5 crew members",
+    "waterSports": [
+      "Jet ski",
+      "Flite Board",
+      "Water skiing",
+      "Tube ride",
+      "Kayak",
+      "Canoe"
+    ],
+    "description": "Rascal is a 35-meter (115 ft) luxury yacht that brings together elegance, comfort, and performance. Designed for unforgettable journeys in Australia, she welcomes up to 10 guests in 5 stylish cabins, including a full-beam master suite, two doubles, and two twins – each with its own en-suite bathroom. With spacious decks for relaxing or entertaining, modern interiors, and a dedicated crew of 5, Rascal is the perfect choice for those seeking a blend of adventure and refined living at sea.",
+    "seasonalRates": [],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/09/477971384-hero-shot-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/477971376-drone-2-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/477971362-bow-1-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/477971356-aft-1-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/477971390-jacuzzi-and-sun-lounges-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/477971474-sundeck-2-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/477971372-dining-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/477971414-main-saloon-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/477971508-vip-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/477971396-main-aft-bar-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/477971451-master-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/477971434-master-ensuite-scaled.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:39:31.711Z"
+  },
+  {
+    "id": "xana",
+    "name": "Xana",
+    "url": "https://goolets.net/yacht-rentals/xana/",
+    "destination": "GREECE",
+    "priceFromEur": 150000,
+    "priceToEur": 178000,
+    "lengthM": 45,
+    "beamM": null,
+    "draftM": 2.8,
+    "cruiseSpeedKn": null,
+    "builtYear": 1994,
+    "renovatedYear": 2021,
+    "cabins": 6,
+    "maxGuests": 12,
+    "crewCount": 9,
+    "crewRaw": "9 crew members",
+    "waterSports": [
+      "Jet ski (SeaDoo GTS)",
+      "2x SeaBob (F5S)",
+      "Water skiing (adult & children)",
+      "2x Wakeboard",
+      "Kneeboard",
+      "2x Paddleboard",
+      "Stand-up Paddleboard (Eclipse Mirage 11)",
+      "Tube ride",
+      "Towable sofa (2 person)",
+      "Towable bat wing (2 person)",
+      "2x Kayak (2 person)",
+      "Floating platform"
+    ],
+    "description": "Xana invites you into a world of timeless elegance and effortless adventure. At 45 metres, she combines graceful design with expansive decks, refined interiors, and an exciting collection of watersports, creating a charter experience that blends luxury, comfort, and discovery in perfect harmony.",
+    "seasonalRates": [
+      {
+        "label": "Season A",
+        "dateRange": "FROM 01 MAY 2026 TILL 30 JUNE 2026",
+        "priceEur": 150000
+      },
+      {
+        "label": "Season B",
+        "dateRange": "FROM 01 JULY 2026 TILL 31 AUGUST 2026",
+        "priceEur": 178000
+      },
+      {
+        "label": "Season C",
+        "dateRange": "FROM 01 SEPTEMBER 2026 TILL 31 OCTOBER 2026",
+        "priceEur": 150000
+      }
+    ],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/09/XANA-Anchored-1-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/XANA-Anchored-2-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/XANA-Aerial-view-2-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/XANA-Main-deck-aft-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/XANA-Upper-deck-aft-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/XANA-Sun-deck-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/XANA-Upper-deck-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/XANA-Master-cabin-scaled.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:39:35.382Z"
+  },
+  {
+    "id": "onatalina",
+    "name": "O’Natalina",
+    "url": "https://goolets.net/yacht-rentals/onatalina/",
+    "destination": "GREECE",
+    "priceFromEur": 145000,
+    "priceToEur": 185000,
+    "lengthM": 56,
+    "beamM": null,
+    "draftM": 2.7,
+    "cruiseSpeedKn": null,
+    "builtYear": 1985,
+    "renovatedYear": 2017,
+    "cabins": 6,
+    "maxGuests": 12,
+    "crewCount": 11,
+    "crewRaw": "11 members",
+    "waterSports": [
+      "2x Jet Ski",
+      "SeaBob",
+      "Water skiing",
+      "Water slide",
+      "Wake surf",
+      "Wakeboard",
+      "2x Paddleboard",
+      "Kayak"
+    ],
+    "description": "O’Natalina is a luxurious 56-metre yacht refurbished in 2017, offering accommodation for 12 guests across 6 cabins with a professional crew of 11. She cruises at 15.5 knots and comes equipped with an extensive water sports programme: 2 jet skis, SeaBob, water skiing, wake surf, wakeboard, 2 paddleboards, kayak and a waterslide.",
+    "seasonalRates": [
+      {
+        "label": "Season A",
+        "dateRange": "FROM 01 MAY 2026 TILL 30 JUNE 2026",
+        "priceEur": 145000
+      },
+      {
+        "label": "Season B",
+        "dateRange": "FROM 01 JULY 2026 TILL 31 AUGUST 2026",
+        "priceEur": 185000
+      },
+      {
+        "label": "Season C",
+        "dateRange": "FROM 01 SEPTEMBER 2026 TILL 31 OCTOBER 2026",
+        "priceEur": 145000
+      }
+    ],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/09/497692062-dji_0097-1-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/497692047-dji_0051-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/497692015-dji_0037-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/497691887-317_1749-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/497691867-317_1726-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/497691823-317_1653-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/497691767-317_1549-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/497692131-master_317_1714_1-scaled.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:39:37.819Z"
+  },
+  {
+    "id": "vauban",
+    "name": "Vauban",
+    "url": "https://goolets.net/yacht-rentals/vauban/",
+    "destination": "FRANCE",
+    "priceFromEur": 135000,
+    "priceToEur": 155000,
+    "lengthM": 36,
+    "beamM": null,
+    "draftM": 2.21,
+    "cruiseSpeedKn": null,
+    "builtYear": 2024,
+    "renovatedYear": null,
+    "cabins": 5,
+    "maxGuests": 10,
+    "crewCount": 7,
+    "crewRaw": "7 members",
+    "waterSports": [
+      "Water skiing",
+      "Wakeboard"
+    ],
+    "description": "Vauban is a 36.92-metre yacht launched in 2024, offering accommodation for up to 10 guests in 5 cabins, with a crew of 7. She can cruise at 15 knots (max speed 26 knots) and features water sports like water skiing and wakeboarding.",
+    "seasonalRates": [
+      {
+        "label": "Season A",
+        "dateRange": "FROM 01 MAY 2026 TILL 30 JUNE 2026",
+        "priceEur": 135000
+      },
+      {
+        "label": "Season B",
+        "dateRange": "FROM 01 JULY 2026 TILL 31 AUGUST 2026",
+        "priceEur": 155000
+      },
+      {
+        "label": "Season C",
+        "dateRange": "FROM 01 SEPTEMBER 2026 TILL 31 OCTOBER 2026",
+        "priceEur": 135000
+      }
+    ],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/09/685624236-4-1-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/685624158-3-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/685624311-8-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/685624328-9-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/685624364-10-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/685624494-16-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/685624599-20-scaled.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:39:40.763Z"
+  },
+  {
+    "id": "angra-too",
+    "name": "Angra Too",
+    "url": "https://goolets.net/yacht-rentals/angra-too/",
+    "destination": "ITALY",
+    "priceFromEur": 132000,
+    "priceToEur": 162000,
+    "lengthM": 38,
+    "beamM": null,
+    "draftM": 2,
+    "cruiseSpeedKn": null,
+    "builtYear": 2015,
+    "renovatedYear": 2021,
+    "cabins": 6,
+    "maxGuests": 11,
+    "crewCount": 6,
+    "crewRaw": "6 crew members",
+    "waterSports": [
+      "2x Sea Scooter",
+      "Water skiing",
+      "Ringo ride",
+      "2x Paddleboard",
+      "Canoe"
+    ],
+    "description": "A refined 38-meter motor yacht built by Castagnola, ANGRA TOO combines elegant Italian craftsmanship with a very comfortable, guest-friendly layout. With 6 cabins (including a rare single cabin), she’s ideal for mixed groups or families looking for flexibility without compromising on space.",
+    "seasonalRates": [
+      {
+        "label": "Season A",
+        "dateRange": "FROM 18 APRIL 2026 TILL 22 JUNE 2026",
+        "priceEur": 132000
+      },
+      {
+        "label": "Season B",
+        "dateRange": "FROM 23 JUNE 2026 TILL 07 SEPTEMBER 2026",
+        "priceEur": 162000
+      },
+      {
+        "label": "Season C",
+        "dateRange": "FROM 07 SEPTEMBER 2026 TILL 31 OCTOBER 2026",
+        "priceEur": 132000
+      }
+    ],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2026/03/ANGRA-TOO-Cruising.avif",
+      "https://goolets.net/wp-content/uploads/2026/03/NO_LOGO_AngraToo-26.avif",
+      "https://goolets.net/wp-content/uploads/2026/03/NO_LOGO_AngraToo-45.avif",
+      "https://goolets.net/wp-content/uploads/2026/03/ANGRA-TOO-Flybridge.avif",
+      "https://goolets.net/wp-content/uploads/2026/03/ANGRA-TOO-Dinning-area.avif",
+      "https://goolets.net/wp-content/uploads/2026/03/ANGRA-TOO-Salon.avif",
+      "https://goolets.net/wp-content/uploads/2026/03/NO_LOGO_AngraToo-1.avif",
+      "https://goolets.net/wp-content/uploads/2026/03/NO_LOGO_AngraToo-2.avif",
+      "https://goolets.net/wp-content/uploads/2026/03/NO_LOGO_AngraToo-3.avif",
+      "https://goolets.net/wp-content/uploads/2026/03/NO_LOGO_AngraToo-5.avif",
+      "https://goolets.net/wp-content/uploads/2026/03/NO_LOGO_AngraToo-7.avif",
+      "https://goolets.net/wp-content/uploads/2026/03/NO_LOGO_AngraToo-9.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:39:43.773Z"
+  },
+  {
+    "id": "freedom-croatia",
+    "name": "Freedom",
+    "url": "https://goolets.net/yacht-rentals/freedom-croatia/",
+    "destination": "CROATIA",
+    "priceFromEur": 130000,
+    "priceToEur": 160000,
+    "lengthM": 48,
+    "beamM": null,
+    "draftM": 3,
+    "cruiseSpeedKn": null,
+    "builtYear": 2019,
+    "renovatedYear": 2022,
+    "cabins": 11,
+    "maxGuests": 24,
+    "crewCount": 12,
+    "crewRaw": "12 Crew Members (Captain, 2 Chef's, Chief Steward, 2 Steward, Masseuse, 2 Housekeeper, 3 Deckhands)",
+    "waterSports": [
+      "2 Jet Skis",
+      "2 SeaBobs",
+      "Water Skiing",
+      "Wakeboard",
+      "Tube Ride",
+      "Ringo Ride",
+      "2 E-Foils",
+      "4 Paddleboards",
+      "2 Electric Paddleboards",
+      "Kayak",
+      "Waterslide",
+      "Inflatable Swimming Platforms"
+    ],
+    "description": "MY Freedom redefines luxury yachting in Croatia. With a pool and jacuzzi on the sundeck, a private cinema, gym, spa, and a wide range of water toys, she offers an exquisite blend of comfort, adventure and relaxation.",
+    "seasonalRates": [
+      {
+        "label": "Season A",
+        "dateRange": "FROM 24 APRIL 2027 TILL 17 MAY 2027",
+        "priceEur": 130000
+      },
+      {
+        "label": "Season B",
+        "dateRange": "FROM 18 MAY 2027 TILL 18 JUNE 2027",
+        "priceEur": 145000
+      },
+      {
+        "label": "Season C",
+        "dateRange": "FROM 19 JUNE 2027 TILL 29 AUGUST 2027",
+        "priceEur": 160000
+      },
+      {
+        "label": "Season D",
+        "dateRange": "FROM 30 AUGUST 2027 TILL 30 SEPTEMBER 2027",
+        "priceEur": 145000
+      },
+      {
+        "label": "Season E",
+        "dateRange": "FROM 01 OCTOBER 2027 TILL 01 NOVEMBER 2027",
+        "priceEur": 130000
+      }
+    ],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/07/1.-FREEDOM-Cruising-1.webp",
+      "https://goolets.net/wp-content/uploads/2025/07/3.-FREEDOM-Cruising-by-Dubrovnik-1.webp",
+      "https://goolets.net/wp-content/uploads/2025/07/5.-FREEDOM-Aerial-1.webp",
+      "https://goolets.net/wp-content/uploads/2025/07/6.-FREEDOM-Aerial-at-night-1.webp",
+      "https://goolets.net/wp-content/uploads/2025/07/7.-FREEDOM-Anchored-1.webp",
+      "https://goolets.net/wp-content/uploads/2025/07/8.-FREEDOM-Beach-dinner-1.webp",
+      "https://goolets.net/wp-content/uploads/2025/07/12.-FREEDOM-Pool-Sun-deck-Aft.webp",
+      "https://goolets.net/wp-content/uploads/2025/07/13.-FREEDOM-Waterslide-Sun-deck-1.webp",
+      "https://goolets.net/wp-content/uploads/2025/07/16.-FREEDOM-Water-toys-1.webp",
+      "https://goolets.net/wp-content/uploads/2025/07/17.-FREEDOM-Water-toys-1.webp",
+      "https://goolets.net/wp-content/uploads/2025/07/22.-FREEDOM-Anchored-1.webp",
+      "https://goolets.net/wp-content/uploads/2025/07/24.-FREEDOM-Sun-deck-1.webp"
+    ],
+    "scrapedAt": "2026-06-04T18:39:45.563Z"
+  },
+  {
+    "id": "maia",
+    "name": "Maia",
+    "url": "https://goolets.net/yacht-rentals/maia/",
+    "destination": "CROATIA",
+    "priceFromEur": 130000,
+    "priceToEur": 155000,
+    "lengthM": 53,
+    "beamM": null,
+    "draftM": 3.2,
+    "cruiseSpeedKn": null,
+    "builtYear": 2025,
+    "renovatedYear": null,
+    "cabins": 6,
+    "maxGuests": 12,
+    "crewCount": 2,
+    "crewRaw": "Captain, Chief Officer, Chef, Sous Chef, Chief Stewardess, Stewardess, Interior Stew, Engineer, 2x Deckhand",
+    "waterSports": [
+      "2x Jet ski",
+      "2x Seabob F9S",
+      "2x E-foil",
+      "Water skiing (adult and children)",
+      "Water slide",
+      "2x Paddleboard",
+      "2x Kayak",
+      "Inflatable towables",
+      "Inflatable platforms",
+      "Inflatable pavilion"
+    ],
+    "description": "Step aboard Maia, a majestic 53.1 m yacht launched in 2025, offering modern elegance and refined comfort for the ultimate Adriatic escape. Featuring six beautifully appointed cabins for up to 12 guests and a dedicated crew of 10, Maia ensures smooth sailing and seamless hospitality. Maia delivers both indulgence and convenience.",
+    "seasonalRates": [
+      {
+        "label": "Season A",
+        "dateRange": "FROM 18 APRIL 2026 TILL 14 JUNE 2026",
+        "priceEur": 130000
+      },
+      {
+        "label": "Season B",
+        "dateRange": "FROM 15 JUNE 2026 TILL 31 AUGUST 2026",
+        "priceEur": 155000
+      },
+      {
+        "label": "Season C",
+        "dateRange": "FROM 01 SEPTEMBER 2026 TILL 31 OCTOBER 2026",
+        "priceEur": 130000
+      }
+    ],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/09/764928539-maia_01-1-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/764928560-maia_03-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/764928302-maia_30-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/MAIA_12-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/MAIA_09-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/MAIA_18-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/MAIA_46-scaled.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:39:49.207Z"
+  },
+  {
+    "id": "carmen",
+    "name": "Carmen",
+    "url": "https://goolets.net/yacht-rentals/carmen/",
+    "destination": "CROATIA",
+    "priceFromEur": 130000,
+    "priceToEur": 145000,
+    "lengthM": 37,
+    "beamM": null,
+    "draftM": 2.3,
+    "cruiseSpeedKn": null,
+    "builtYear": 2025,
+    "renovatedYear": null,
+    "cabins": 5,
+    "maxGuests": 10,
+    "crewCount": 7,
+    "crewRaw": "7 crew members",
+    "waterSports": [
+      "2x E-foil",
+      "2x Jet ski",
+      "2x SeaBob",
+      "4x Water skiing",
+      "2x Wakeboard",
+      "4x Paddleboard",
+      "Kayak"
+    ],
+    "description": "CARMEN is a striking 37.3-metre new build (2025) by Aegean Yachts, crafted for guests who value bold design, open-air living and a dynamic onboard lifestyle. Her angular exterior lines give her a distinctive presence at sea, while the beach house-inspired interior creates a relaxed yet refined atmosphere filled with natural light and contemporary finishes.",
+    "seasonalRates": [
+      {
+        "label": "Season A",
+        "dateRange": "FROM 01 MAY 2026 TILL 01 JULY 2026",
+        "priceEur": 130000
+      },
+      {
+        "label": "Season B",
+        "dateRange": "FROM 01 JULY 2026 TILL 01 SEPTEMBER 2026",
+        "priceEur": 150000
+      },
+      {
+        "label": "Season C",
+        "dateRange": "FROM 01 SEPTEMBER 2026 TILL 01 NOVEMBER 2026",
+        "priceEur": 130000
+      }
+    ],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2026/02/802756754-carmen_cover-photo2-scaled.jpg",
+      "https://goolets.net/wp-content/uploads/2026/02/802756765-carmen_cover-photo4-scaled.jpg",
+      "https://goolets.net/wp-content/uploads/2026/02/802756758-carmen_cover-photo3-scaled.jpg",
+      "https://goolets.net/wp-content/uploads/2026/02/802756786-carmen_exterior_beach-club-with-transformer-platform2-scaled.jpg",
+      "https://goolets.net/wp-content/uploads/2026/02/802756864-carmen_exterior12-scaled.jpg",
+      "https://goolets.net/wp-content/uploads/2026/02/802756847-carmen_exterior5-scaled.jpg",
+      "https://goolets.net/wp-content/uploads/2026/02/802756810-carmen_exterior_upper-deck_sky-lounge1-scaled.jpg",
+      "https://goolets.net/wp-content/uploads/2026/02/802756926-carmen_main-deck-salon1-scaled.jpg",
+      "https://goolets.net/wp-content/uploads/2026/02/802756677-carmen_cabin-master1-scaled.jpg",
+      "https://goolets.net/wp-content/uploads/2026/02/802756661-carmen_cabin-master_batrhoom1-scaled.jpg"
+    ],
+    "scrapedAt": "2026-06-04T18:39:51.664Z"
+  },
+  {
+    "id": "wind-fortune",
+    "name": "Wind Of Fortune",
+    "url": "https://goolets.net/yacht-rentals/wind-fortune/",
+    "destination": "GREECE",
+    "priceFromEur": 126000,
+    "priceToEur": 159000,
+    "lengthM": 52,
+    "beamM": null,
+    "draftM": 2.85,
+    "cruiseSpeedKn": null,
+    "builtYear": 1981,
+    "renovatedYear": 2020,
+    "cabins": 7,
+    "maxGuests": 16,
+    "crewCount": 11,
+    "crewRaw": "11 members",
+    "waterSports": [
+      "2x Jet ski (Yamaha Waverunner VX 125 & SeaDoo Spark)",
+      "2x SeaBob (F5)",
+      "Water skiing (adult & children)",
+      "Kneeboard",
+      "Wakeboard",
+      "2x Paddleboard",
+      "2x Kayak",
+      "Water golf"
+    ],
+    "description": "Wind Of Fortune is a majestic 52‑meter motor yacht based in Greece, accommodating up to 12 guests across seven stylish cabins, attended by a professional crew of 11, and capable of cruising at approximately 12 knots. Originally built in 1981 and extensively refitted in 2020, she offers a remarkable collection of water toys, including two jet skis, SeaBobs, wakeboards, kayaks, paddleboards, and more, ensuring a luxurious and adventure-filled charter experience.",
+    "seasonalRates": [
+      {
+        "label": "Season A",
+        "dateRange": "FROM 01 JUNE 2026 TILL 30 JUNE 2026",
+        "priceEur": 126000
+      },
+      {
+        "label": "Season B",
+        "dateRange": "FROM 01 JULY 2026 TILL 31 AUGUST 2026",
+        "priceEur": 159000
+      },
+      {
+        "label": "Season C",
+        "dateRange": "FROM 01 SEPTEMBER 2026 TILL 30 SEPTEMBER 2026",
+        "priceEur": 126000
+      }
+    ],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/08/WoF13.webp",
+      "https://goolets.net/wp-content/uploads/2025/08/WoF2.webp",
+      "https://goolets.net/wp-content/uploads/2025/08/WoF10.webp",
+      "https://goolets.net/wp-content/uploads/2025/08/WoF12.webp",
+      "https://goolets.net/wp-content/uploads/2025/08/WoF41.webp",
+      "https://goolets.net/wp-content/uploads/2025/08/WoF4.webp",
+      "https://goolets.net/wp-content/uploads/2025/08/WoF33.webp",
+      "https://goolets.net/wp-content/uploads/2025/08/WoF31.webp"
+    ],
+    "scrapedAt": "2026-06-04T18:39:53.437Z"
+  },
+  {
+    "id": "prana",
+    "name": "Prana",
+    "url": "https://goolets.net/yacht-rentals/prana/",
+    "destination": "INDONESIA",
+    "priceFromEur": 126000,
+    "priceToEur": null,
+    "lengthM": 55,
+    "beamM": null,
+    "draftM": 4.5,
+    "cruiseSpeedKn": null,
+    "builtYear": 2018,
+    "renovatedYear": null,
+    "cabins": 9,
+    "maxGuests": 18,
+    "crewCount": 18,
+    "crewRaw": "18 crew members",
+    "waterSports": [
+      "Water skiing",
+      "Ringo ride",
+      "Wakeboard",
+      "6 Paddleboards",
+      "6 Kayaks"
+    ],
+    "description": "Prana is a 55-metre luxury yacht built in 2018, featuring 9 cabins and able to host up to 18 guests with a professional crew of 18. She offers an adventurous water-sports program including water skiing, wakeboarding, ringo rides, 6 paddleboards and 6 kayaks.",
+    "seasonalRates": [],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/09/345511117-35-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/345510676-3-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/345510966-22-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/345510948-21-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/345510696-5-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/345510743-8-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/345510771-9-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/345510793-11-scaled.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:39:56.549Z"
+  },
+  {
+    "id": "olimp",
+    "name": "Olimp",
+    "url": "https://goolets.net/yacht-rentals/olimp/",
+    "destination": "CROATIA",
+    "priceFromEur": 125000,
+    "priceToEur": 150000,
+    "lengthM": 52,
+    "beamM": null,
+    "draftM": 3.2,
+    "cruiseSpeedKn": null,
+    "builtYear": 2017,
+    "renovatedYear": null,
+    "cabins": 10,
+    "maxGuests": 20,
+    "crewCount": 11,
+    "crewRaw": "11 crew members",
+    "waterSports": [
+      "2x Jet ski",
+      "E-foil",
+      "2x SeaBob",
+      "Water skiing",
+      "Ringo ride",
+      "Tube ride",
+      "2x Paddleboard",
+      "Inflatable sea pool"
+    ],
+    "description": "A striking 52-metre yacht that combines modern elegance with plenty of space for relaxing and entertaining, making her ideal for larger groups who want to explore Croatia in style. With generous outdoor areas, a sundeck jacuzzi, and a wide choice of water toys, she creates the perfect balance between laid-back luxury and unforgettable adventures at sea.",
+    "seasonalRates": [
+      {
+        "label": "Season A",
+        "dateRange": "FROM 01 MAY 2027 TILL 16 MAY 2027",
+        "priceEur": 125000
+      },
+      {
+        "label": "Season B",
+        "dateRange": "FROM 17 MAY 2027 TILL 25 JUNE 2027",
+        "priceEur": 139000
+      },
+      {
+        "label": "Season C",
+        "dateRange": "FROM 26 JUNE 2027 TILL 28 AUGUST 2027",
+        "priceEur": 150000
+      },
+      {
+        "label": "Season D",
+        "dateRange": "FROM 29 AUGUST 2027 TILL 21 SEPTEMBER 2027",
+        "priceEur": 139000
+      },
+      {
+        "label": "Season E",
+        "dateRange": "FROM 22 SEPTEMBER 2027 TILL 31 OCTOBER 2027",
+        "priceEur": 125000
+      }
+    ],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/09/1.-OLIMP-Anchored-1.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/2.-OLIMP-In-port.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/3.-OLIMP-Watersports.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/4.-OLIMP-Passarella.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/6.-OLIMP-Sun-deck.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/7.-OLIMP-Sun-deck.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/8.-OLIMP-Sun-deck.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/10.-OLIMP-Salon-Upper-deck.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/11.-OLIMP-Salon-Upper-deck.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/12.-OLIMP-Lounge-Upper-deck.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/13.-OLIMP-Lounge-Upper-deck.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/14.-OLIMP-Hallway.webp"
+    ],
+    "scrapedAt": "2026-06-04T18:39:59.197Z"
+  },
+  {
+    "id": "sea-wolf",
+    "name": "Sea Wolf",
+    "url": "https://goolets.net/yacht-rentals/sea-wolf/",
+    "destination": "GREECE",
+    "priceFromEur": 120000,
+    "priceToEur": 142000,
+    "lengthM": 41,
+    "beamM": null,
+    "draftM": 2.44,
+    "cruiseSpeedKn": null,
+    "builtYear": 2008,
+    "renovatedYear": 2024,
+    "cabins": 6,
+    "maxGuests": 12,
+    "crewCount": 8,
+    "crewRaw": "8 crew members",
+    "waterSports": [
+      "2x Jet ski (SeaDoo Spark)",
+      "2x SeaBob (F5)",
+      "Water skiing",
+      "Tube ride",
+      "Ringo ride",
+      "Wakeboard",
+      "Kneeboard",
+      "3x Paddleboard",
+      "3x Canoe"
+    ],
+    "description": "Sea Wolf is a luxurious 41.8 m motor yacht cruising in Greece, recently refitted in 2024, offering accommodation for up to 12 guests across six cabins and served by an expert crew of eight, with its amenities including master, VIP, double, and twin cabins (some featuring Pullman berths). Its water-sports arsenal is impressive, featuring 2 Jet Skis, 2 SeaBobs, gear for waterskiing, tubing, wakeboarding, kneeboarding, paddleboarding, and three kayaks.",
+    "seasonalRates": [
+      {
+        "label": "Season A",
+        "dateRange": "FROM 01 MAY 2026 TILL 14 JUNE 2026",
+        "priceEur": 120000
+      },
+      {
+        "label": "Season B",
+        "dateRange": "FROM 15 JUNE 2026 TILL 30 AUGUST 2026",
+        "priceEur": 142000
+      },
+      {
+        "label": "Season C",
+        "dateRange": "FROM 31 AUGUST 2026 TILL 31 OCTOBER 2026",
+        "priceEur": 120000
+      }
+    ],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/08/461879140-3921brochure1.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/461879127-3921brochure18.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/461879117-3921brochure16.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/461879109-3921brochure15.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/461879151-3921brochure5.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/461879141-3921brochure2.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/461879170-3921brochure11.avif",
+      "https://goolets.net/wp-content/uploads/2025/08/461879154-3921brochure6.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:40:02.840Z"
+  },
+  {
+    "id": "nauti-nickel",
+    "name": "Nauti Nickel",
+    "url": "https://goolets.net/yacht-rentals/nauti-nickel/",
+    "destination": "THE CARIBBEAN",
+    "priceFromEur": 120000,
+    "priceToEur": 104000,
+    "lengthM": 24,
+    "beamM": null,
+    "draftM": 2.28,
+    "cruiseSpeedKn": null,
+    "builtYear": 2023,
+    "renovatedYear": null,
+    "cabins": 5,
+    "maxGuests": 10,
+    "crewCount": 4,
+    "crewRaw": "4 crew members",
+    "waterSports": [
+      "2 SeaBobs",
+      "Wakeboard",
+      "2 Paddleboards"
+    ],
+    "description": "Nauti Nickel, a sleek 80‑ft Sunreef Yachts masterpiece built in 2023, designed to pamper up to 10 guests with five luxurious cabins and a dedicated crew of four. Relax on the expansive flybridge with its bar and jacuzzi, dine in style on the aft deck, or dive into adventure with SeaBobs, wakeboards, paddles and more. Every detail is curated elegant design, exceptional comfort, and unforgettable Caribbean escapes await.",
+    "seasonalRates": [],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/09/560406730-8811brochure17-1.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/560406666-8811brochure2.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/560406694-8811brochure8.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/560406674-8811brochure4.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/560406744-8811brochure1.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/560406672-8811brochure3.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:40:06.510Z"
+  },
+  {
+    "id": "cristal",
+    "name": "Cristal",
+    "url": "https://goolets.net/yacht-rentals/cristal/",
+    "destination": "CROATIA",
+    "priceFromEur": 115000,
+    "priceToEur": 140000,
+    "lengthM": 48,
+    "beamM": null,
+    "draftM": 3,
+    "cruiseSpeedKn": null,
+    "builtYear": 2018,
+    "renovatedYear": 2024,
+    "cabins": 14,
+    "maxGuests": 28,
+    "crewCount": 12,
+    "crewRaw": "12 crew members (Captain, First Mate, 3 Sailors, 2 Chefs, Chief Stew, 2 Waiters, Housekeeper, Masseuse)",
+    "waterSports": [
+      "Jet Ski",
+      "3 SeaBobs",
+      "E-Foil",
+      "Wakeboard",
+      "Ringo Ride",
+      "5 Paddleboards",
+      "2 Canoes",
+      "Waterslide",
+      "Inflatable Swimming Platforms"
+    ],
+    "description": "With elegant interiors, exceptional entertainment spaces, and a highly attentive crew, Cristal offers the perfect balance of comfort, relaxation, and adventure across the Adriatic.",
+    "seasonalRates": [
+      {
+        "label": "Season A",
+        "dateRange": "FROM 16 APRIL 2027 TILL 17 MAY 2027",
+        "priceEur": 115000
+      },
+      {
+        "label": "Season B",
+        "dateRange": "FROM 18 MAY 2027 TILL 10 JUNE 2027",
+        "priceEur": 125000
+      },
+      {
+        "label": "Season C",
+        "dateRange": "FROM 11 JUNE 2027 TILL 29 AUGUST 2027",
+        "priceEur": 140000
+      },
+      {
+        "label": "Season D",
+        "dateRange": "FROM 30 AUGUST 2027 TILL 14 SEPTEMBER 2027",
+        "priceEur": 125000
+      },
+      {
+        "label": "Season E",
+        "dateRange": "FROM 15 SEPTEMBER 2027 TILL 01 NOVEMBER 2027",
+        "priceEur": 115000
+      }
+    ],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/09/CRISTAL-Sunset.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/4.-CRISTAL-Water-toys.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/8.-CRISTAL-Water-toys.webp",
+      "https://goolets.net/wp-content/uploads/2025/10/cristal_anchored_3_0.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/12.-CRISTAL-Water-toys.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/11.-CRISTAL-Water-toys.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/20.-CRISTAL-Jacuzzi-Sun-deck-stern.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/21.-CRISTAL-Sun-deck.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/24.-CRISTAL-Sun-loungers-Sun-deck.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/25.-CRISTAL-Lounge-area-Sun-deck.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/27.-CRISTAL-Gym-Sun-deck.webp",
+      "https://goolets.net/wp-content/uploads/2025/09/30.-CRISTAL-Al-fresco-dinning-Upper-deck-Aft.webp"
+    ],
+    "scrapedAt": "2026-06-04T18:40:09.126Z"
+  },
+  {
+    "id": "morning-star-turkey",
+    "name": "Morning Star",
+    "url": "https://goolets.net/yacht-rentals/morning-star-turkey/",
+    "destination": "TURKEY",
+    "priceFromEur": 115000,
+    "priceToEur": 130000,
+    "lengthM": 36,
+    "beamM": null,
+    "draftM": 2.25,
+    "cruiseSpeedKn": null,
+    "builtYear": 2018,
+    "renovatedYear": null,
+    "cabins": 5,
+    "maxGuests": 10,
+    "crewCount": 7,
+    "crewRaw": "7 members",
+    "waterSports": [
+      "2x SeaBob",
+      "Water skiing",
+      "2x Ringo ride",
+      "Paddleboard"
+    ],
+    "description": "Morning Star is a 36.5-metre yacht built in 2018 that accommodates up to 10 guests in 5 cabins, served by a crew of 7. She cruises at 18 knots (max speed 27 knots), and comes equipped with water sports like 2 SeaBobs, water skiing, ringo rides, and paddleboards.",
+    "seasonalRates": [],
+    "images": [
+      "https://goolets.net/wp-content/uploads/2025/09/707657886-dji_0943.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/707657673-dji_0153-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/707657690-dji_0172-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/707657710-dji_0182-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/707657845-dji_0176-1-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/707657848-dji_0178.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/707657334-_img0479_1-scaled.avif",
+      "https://goolets.net/wp-content/uploads/2025/09/707657368-img0479-scaled.avif"
+    ],
+    "scrapedAt": "2026-06-04T18:40:10.890Z"
+  }
+]
