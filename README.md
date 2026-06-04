@@ -7,6 +7,15 @@ fleet in plain English — _"Greece, 8 guests, jet skis, under €150k"_.
 Everything runs locally: a Playwright scraper, **local vector embeddings** (Transformers.js,
 `all-MiniLM-L6-v2` — no API keys), and a Next.js app.
 
+<p align="center">
+  <img src="docs/demo.gif" alt="yacht·tinder demo — swipe deck, semantic search, and shortlist" width="300">
+</p>
+
+> _Demo: swiping the Discover deck, a natural-language search, and the saved shortlist.
+> Produced by the project's `record-demo` skill (Playwright + ffmpeg — the same engine as
+> [pagecast](https://github.com/mcpware/pagecast), which is installed project-locally). See
+> [Recording the demo](#recording-the-demo)._
+
 ---
 
 ## Quick start
@@ -93,6 +102,29 @@ This is a **sample-first** prototype (first 2 listing pages, ~34 yachts). To sca
   binary embedding format.
 - Optionally download/cache yacht images locally (`public/`) instead of hotlinking, and add a
   scheduled refresh.
+
+## Recording the demo
+
+The README GIF (`docs/demo.gif`) is reproducible. [pagecast](https://github.com/mcpware/pagecast)
+— an MCP server that records browser sessions into polished GIFs (Playwright + ffmpeg) — is
+installed **project-locally** two ways:
+
+- **`.mcp.json`** registers pagecast as a project-scoped MCP server (its tools connect after
+  Claude Code reloads/re-trusts the project).
+- **`.claude/skills/record-demo/`** is a project skill that orchestrates the recording — it drives
+  the app through Discover → Search → Saved and exports the GIF.
+
+To refresh the GIF without any MCP (self-contained, same engine pagecast uses):
+
+```bash
+npm run dev > /tmp/yt-dev.log 2>&1 &        # start the app
+node scripts/record-demo.mjs                 # records → docs/demo.gif (warms the model first)
+npm run stop                                  # stop the app
+```
+
+`scripts/record-demo.mjs` launches Playwright with video capture + a cursor overlay, then runs a
+denoise + two-pass palette ffmpeg pipeline to keep the GIF small (~3–4 MB). Tune `FPS`,
+`GIF_WIDTH`, and `MAX_COLORS` at the top of the script.
 
 ## How this app was built
 
