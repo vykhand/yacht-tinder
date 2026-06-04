@@ -4,11 +4,18 @@ A smart yacht-charter discovery app built on data scraped from [goolets.net](htt
 **Swipe** through luxury yachts Tinder-style (the deck learns your taste), or **search** the
 fleet in plain English — _"Greece, 8 guests, jet skis, under €150k"_.
 
+> [!IMPORTANT]
+> **Demo / educational project — not affiliated with goolets.net.**
+> All yacht **data and images belong to [goolets.net](https://goolets.net)** and are shown here for
+> demonstration purposes only. Web **scraping is subject to the site's Terms & Conditions** and
+> `robots.txt` — review and respect them (and any applicable law) before running the scraper or
+> reusing the data. Please don't deploy this publicly or use the scraped content commercially.
+
 Everything runs locally: a Playwright scraper, **local vector embeddings** (Transformers.js,
 `all-MiniLM-L6-v2` — no API keys), and a Next.js app.
 
 <p align="center">
-  <img src="docs/demo.gif" alt="yacht·tinder demo — swipe deck, semantic search, and shortlist" width="300">
+  <img src="docs/demo.gif" alt="yacht·tinder demo — swipe deck, semantic search, and shortlist" width="320">
 </p>
 
 > _Demo: swiping the Discover deck, a natural-language search, and the saved shortlist.
@@ -122,9 +129,15 @@ node scripts/record-demo.mjs                 # records → docs/demo.gif (warms 
 npm run stop                                  # stop the app
 ```
 
-`scripts/record-demo.mjs` launches Playwright with video capture + a cursor overlay, then runs a
-denoise + two-pass palette ffmpeg pipeline to keep the GIF small (~3–4 MB). Tune `FPS`,
-`GIF_WIDTH`, and `MAX_COLORS` at the top of the script.
+`scripts/record-demo.mjs` launches Playwright with video capture + a cursor overlay, then runs an
+ffmpeg palette pipeline. **By default it keeps the full capture quality** (≈9 MB, under GitHub's
+~10 MB inline limit). For a smaller, optimized GIF, set the `DEMO_*` env vars to enable temporal
+denoise + trimming, e.g.:
+
+```bash
+DEMO_WIDTH=320 DEMO_FPS=12 DEMO_DENOISE=8:6:12:12 DEMO_TRIM=1 DEMO_MAXCOLORS=160 \
+  node scripts/record-demo.mjs       # ≈3–4 MB
+```
 
 ## How this app was built
 

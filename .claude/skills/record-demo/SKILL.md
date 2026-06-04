@@ -41,9 +41,13 @@ npm run stop                                    # stop app
 ```
 
 `scripts/record-demo.mjs` launches Playwright with `recordVideo`, injects a visible cursor,
-drives the same Discover→Search→Saved sequence, then runs the two-pass ffmpeg palette conversion
-to an optimized GIF. Tune `fps` / `width` at the top of the script if the file is too large
-(target < ~5 MB for a snappy README).
+drives the same Discover→Search→Saved sequence, then runs an ffmpeg palette conversion. It
+defaults to **full capture quality** (≈9 MB). For a smaller GIF, pass the `DEMO_*` env vars:
+
+```bash
+DEMO_WIDTH=320 DEMO_FPS=12 DEMO_DENOISE=8:6:12:12 DEMO_TRIM=1 DEMO_MAXCOLORS=160 \
+  node scripts/record-demo.mjs       # ≈3–4 MB
+```
 
 ## After recording
 

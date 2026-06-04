@@ -19,12 +19,16 @@ const OUT_DIR = resolve(ROOT, 'docs');
 const VID_DIR = resolve(ROOT, '.recordings');
 const W = 440;
 const H = 900;
-const FPS = 12;
-const GIF_WIDTH = 320;
-const TRIM_START = 1.0; // seconds to drop from the front (initial settle)
-// Temporal denoise tames the animated grain backdrop so the GIF compresses well.
-const DENOISE = '8:6:12:12';
-const MAX_COLORS = 160;
+// Defaults reproduce the FULL capture quality (~9-10 MB). For a smaller, optimized
+// GIF set the DEMO_* env vars, e.g.:
+//   DEMO_WIDTH=320 DEMO_FPS=12 DEMO_DENOISE=8:6:12:12 DEMO_TRIM=1 DEMO_MAXCOLORS=160 \
+//     node scripts/record-demo.mjs
+const FPS = Number(process.env.DEMO_FPS || 13);
+const GIF_WIDTH = Number(process.env.DEMO_WIDTH || 380);
+const TRIM_START = Number(process.env.DEMO_TRIM || 0); // seconds dropped from the front
+const DENOISE = process.env.DEMO_DENOISE || ''; // '' = no denoise (full quality)
+const MAX_COLORS = Number(process.env.DEMO_MAXCOLORS || 256);
+const BAYER = Number(process.env.DEMO_BAYER || 3);
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -140,15 +144,15 @@ async function main() {
   if (!webm) throw new Error('no video was produced');
   const gif = resolve(OUT_DIR, 'demo.gif');
 
-  // Single-pass: denoise → split → palettegen → paletteuse. Trim the front.
+  // Single-pass: (optional denoise) → split → palettegen → paletteuse.
   console.log('Encoding GIF…');
+  const dn = DENOISE ? `,hqdn3d=${DENOISE}` : '';
+  const ss = TRIM_START > 0 ? `-ss ${TRIM_START} ` : '';
   const fc =
-    `[0:v]fps=${FPS},scale=${GIF_WIDTH}:-1:flags=lanczos,hqdn3d=${DENOISE},split[a][b];` +
+    `[0:v]fps=${FPS},scale=${GIF_WIDTH}:-1:flags=lanczos${dn},split[a][b];` +
     `[a]palettegen=max_colors=${MAX_COLORS}:stats_mode=diff[p];` +
-    `[b][p]paletteuse=dither=bayer:bayer_scale=5`;
-  execSync(`ffmpeg -y -ss ${TRIM_START} -i "${webm}" -filter_complex "${fc}" "${gif}"`, {
-    stdio: 'inherit',
-  });
+    `[b][p]paletteuse=dither=bayer:bayer_scale=${BAYER}`;
+  execSync(`ffmpeg -y ${ss}-i "${webm}" -filter_complex "${fc}" "${gif}"`, { stdio: 'inherit' });
   console.log(`\n✓ Wrote ${gif}`);
 }
 
