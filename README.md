@@ -23,6 +23,56 @@ Everything runs locally: a Playwright scraper, **local vector embeddings** (Tran
 > [pagecast](https://github.com/mcpware/pagecast), which is installed project-locally). See
 > [Recording the demo](#recording-the-demo)._
 
+## Credits
+
+Developed with [Claude Code](https://claude.com/claude-code) during the
+[**AI Workflow Automation workshop**](https://www.eventbrite.com/e/ai-workflow-automation-workshop-tickets-1990686151868)
+at [**Kodo coworking space**](https://kodo.place/), Ljubljana — **4 June 2026**.
+
+> Built as a demo. Yacht data and images belong to goolets.net.
+
+## How this app was built
+
+This whole app was built **live in one session with [Claude Code](https://claude.com/claude-code)**,
+agentically, in **plan mode** — Claude inspected the live site, proposed a design, got it approved,
+then scaffolded, scraped, embedded, coded, and verified everything end-to-end (driving its own
+browser via the Playwright MCP). The approved design is archived in
+[`BUILD_PLAN.md`](./BUILD_PLAN.md).
+
+### The prompts (what the human typed)
+
+1. **Kick-off** — *"I want to scrape this site with playwright: `…/yacht-rentals/page/2/?sort=price_desc`
+   and I want to make smart yacht search application out of it."*
+2. **Five planning decisions** (answered as multiple-choice in plan mode):
+   - Core experience → **Swipe deck + AI search**
+   - Stack → **Next.js full-stack**
+   - "Smart" mechanism → **Embeddings / semantic**
+   - Data scope → **Sample first (~34 yachts)**
+   - Embeddings provider → **Local (Transformers.js, no API keys)**
+3. **Approved the plan** → Claude built it autonomously (scaffold → scrape → embed → search/API →
+   UI → verify), tracking progress as a live task list.
+4. *"Stop the app; add start/stop instructions to the README; add the workshop credit."*
+5. *"Archive the plan into `BUILD_PLAN.md`; document the build process in the README."*
+
+### Additional interventions (what Claude did beyond the prompts)
+
+The human only steered with the decisions above — Claude handled the engineering, including several
+mid-build course-corrections it discovered and fixed on its own:
+
+- **Grounded the plan in reality** — opened goolets.net with a real browser first and mapped the
+  actual DOM/data schema before designing anything.
+- **Scraper debugging** — fixed an esbuild `__name` error inside Playwright's `page.evaluate`,
+  filtered out a non-yacht promo card, and retargeted the "About" text to the right paragraph (it
+  first grabbed payment boilerplate). See [`BUILD_PLAN.md`](./BUILD_PLAN.md#as-built-deltas).
+- **Adapted to newer libraries** than the plan assumed (Next 16 / Transformers v4 vs the planned
+  15 / v3) without breaking the integration.
+- **Self-verified** — ran an offline semantic-ranking sanity check, tested the APIs with `curl`,
+  drove the swipe/search/saved flows in the browser and screenshotted them, and confirmed a clean
+  production `npm run build` (no native-addon bundling errors).
+
+> The takeaway from the workshop: a single well-scoped prompt plus a handful of multiple-choice
+> decisions was enough to take this from an empty folder to a working, verified app.
+
 ---
 
 ## Quick start
@@ -138,52 +188,3 @@ denoise + trimming, e.g.:
 DEMO_WIDTH=320 DEMO_FPS=12 DEMO_DENOISE=8:6:12:12 DEMO_TRIM=1 DEMO_MAXCOLORS=160 \
   node scripts/record-demo.mjs       # ≈3–4 MB
 ```
-
-## How this app was built
-
-This whole app was built **live in one session with [Claude Code](https://claude.com/claude-code)**,
-agentically, in **plan mode** — Claude inspected the live site, proposed a design, got it approved,
-then scaffolded, scraped, embedded, coded, and verified everything end-to-end (driving its own
-browser via the Playwright MCP). The approved design is archived in
-[`BUILD_PLAN.md`](./BUILD_PLAN.md).
-
-### The prompts (what the human typed)
-
-1. **Kick-off** — *"I want to scrape this site with playwright: `…/yacht-rentals/page/2/?sort=price_desc`
-   and I want to make smart yacht search application out of it."*
-2. **Five planning decisions** (answered as multiple-choice in plan mode):
-   - Core experience → **Swipe deck + AI search**
-   - Stack → **Next.js full-stack**
-   - "Smart" mechanism → **Embeddings / semantic**
-   - Data scope → **Sample first (~34 yachts)**
-   - Embeddings provider → **Local (Transformers.js, no API keys)**
-3. **Approved the plan** → Claude built it autonomously (scaffold → scrape → embed → search/API →
-   UI → verify), tracking progress as a live task list.
-4. *"Stop the app; add start/stop instructions to the README; add the workshop credit."*
-5. *"Archive the plan into `BUILD_PLAN.md`; document the build process in the README."*
-
-### Additional interventions (what Claude did beyond the prompts)
-
-The human only steered with the decisions above — Claude handled the engineering, including several
-mid-build course-corrections it discovered and fixed on its own:
-
-- **Grounded the plan in reality** — opened goolets.net with a real browser first and mapped the
-  actual DOM/data schema before designing anything.
-- **Scraper debugging** — fixed an esbuild `__name` error inside Playwright's `page.evaluate`,
-  filtered out a non-yacht promo card, and retargeted the "About" text to the right paragraph (it
-  first grabbed payment boilerplate). See [`BUILD_PLAN.md`](./BUILD_PLAN.md#as-built-deltas).
-- **Adapted to newer libraries** than the plan assumed (Next 16 / Transformers v4 vs the planned
-  15 / v3) without breaking the integration.
-- **Self-verified** — ran an offline semantic-ranking sanity check, tested the APIs with `curl`,
-  drove the swipe/search/saved flows in the browser and screenshotted them, and confirmed a clean
-  production `npm run build` (no native-addon bundling errors).
-
-> The takeaway from the workshop: a single well-scoped prompt plus a handful of multiple-choice
-> decisions was enough to take this from an empty folder to a working, verified app.
-
-## Credits
-
-Developed with [Claude Code](https://claude.com/claude-code) during the **AI Workflow Automation
-workshop** at **Kodo coworking space**, Ljubljana — **4 June 2026**.
-
-> Built as a demo. Yacht data and images belong to goolets.net.
